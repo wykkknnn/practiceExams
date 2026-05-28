@@ -1,4 +1,4 @@
 interface:
   display_name: "Practice Exams"
   short_description: "Generate ethical sample exams from course materials"
-  default_prompt: "Use $practice-exams to generate a sample exam paper from my lecture slides and study materials."
+  default_prompt: "Use $practice-exams to generate a sample exam from course materials, or create a new paper matching the format of an input practice exam."
